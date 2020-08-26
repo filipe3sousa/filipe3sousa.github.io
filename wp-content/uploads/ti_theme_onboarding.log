@@ -1,0 +1,16 @@
+[24/Aug/2020:08:52:50] (I): WordPress Instance Info:
+[24/Aug/2020:08:52:50] (I): Home URL : http://localhost
+[24/Aug/2020:08:52:50] (I): Site URL : http://localhost
+[24/Aug/2020:08:52:50] (I): WordPress Version : 5.5
+[24/Aug/2020:08:52:50] (I): Onboarding Version : 1.0.8
+[24/Aug/2020:08:52:50] (I): Multisite : No
+[24/Aug/2020:08:52:50] (I): Server Info : Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.10 Perl/v5.24.0
+[24/Aug/2020:08:52:50] (I): PHP Version : 7.3.7
+[24/Aug/2020:08:52:50] (I): HTTPS : No
+[24/Aug/2020:08:52:50] (I): PHP Max Execution Time : 30
+[24/Aug/2020:08:52:50] (I): PHP Max Input Vars : 1000
+[24/Aug/2020:08:52:50] (I): Max Upload Size : 8388608
+[24/Aug/2020:08:52:50] (I): Plugins:
+[24/Aug/2020:08:52:50] (I): [PLUGIN] Contact Form 7 : v5.2.1 (Takayuki Miyoshi)
+[24/Aug/2020:08:52:50] (I): [PLUGIN] Elementor : v3.0.0 (Elementor.com)
+[24/Aug/2020:08:52:50] (I): [PLUGIN] Templates Patterns Collection : v1.0.8 (ThemeIsle)
